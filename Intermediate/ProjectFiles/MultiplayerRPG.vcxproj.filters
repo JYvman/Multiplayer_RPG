@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MultiplayerRPG.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MultiplayerRPG.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MultiplayerRPGEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MultiplayerRPG">
+      <UniqueIdentifier>{D51DDF17-261F-30BC-9AB7-09ECC1EC078B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MultiplayerRPG\MultiplayerRPG.Build.cs">
+      <Filter>Source\MultiplayerRPG</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\MultiplayerRPG.cpp">
+      <Filter>Source\MultiplayerRPG</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\MultiplayerRPG.h">
+      <Filter>Source\MultiplayerRPG</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\MultiplayerRPGCharacter.cpp">
+      <Filter>Source\MultiplayerRPG</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\MultiplayerRPGCharacter.h">
+      <Filter>Source\MultiplayerRPG</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\MultiplayerRPGGameMode.cpp">
+      <Filter>Source\MultiplayerRPG</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\MultiplayerRPGGameMode.h">
+      <Filter>Source\MultiplayerRPG</Filter>
+    </ClCompile>
+    <Filter Include="Source\MultiplayerRPG\Private">
+      <UniqueIdentifier>{030E58B5-4964-3E3F-AC94-5ED863AF0EF2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\Private\RPGMeleeAbility.cpp">
+      <Filter>Source\MultiplayerRPG\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\Private\RPGRangedAbility.cpp">
+      <Filter>Source\MultiplayerRPG\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\MultiplayerRPG\Private\AbilitySystem">
+      <UniqueIdentifier>{B9527867-6268-37A7-B39A-D5ED3829496E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\Private\AbilitySystem\RPGAbilitySystemComponent.cpp">
+      <Filter>Source\MultiplayerRPG\Private\AbilitySystem</Filter>
+    </ClCompile>
+    <Filter Include="Source\MultiplayerRPG\Private\AbilitySystem\Attributes">
+      <UniqueIdentifier>{27DB8CE4-9E3D-35EC-B0A7-29EA719CFA47}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\Private\AbilitySystem\Attributes\RPGAttributeSet.cpp">
+      <Filter>Source\MultiplayerRPG\Private\AbilitySystem\Attributes</Filter>
+    </ClCompile>
+    <Filter Include="Source\MultiplayerRPG\Private\Game">
+      <UniqueIdentifier>{D7B11363-AF01-321F-A306-C449B8BB7A46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\MultiplayerRPG\Private\Game\PlayerState">
+      <UniqueIdentifier>{0BA140B6-833F-3B83-9C10-ECA1BD36D8C2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\Private\Game\PlayerState\RPGPlayerState.cpp">
+      <Filter>Source\MultiplayerRPG\Private\Game\PlayerState</Filter>
+    </ClCompile>
+    <Filter Include="Source\MultiplayerRPG\Public">
+      <UniqueIdentifier>{E82C34F1-8AF4-3ACC-A5F3-B236ADA6E630}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\Public\RPGMeleeAbility.h">
+      <Filter>Source\MultiplayerRPG\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\Public\RPGRangedAbility.h">
+      <Filter>Source\MultiplayerRPG\Public</Filter>
+    </ClCompile>
+    <Filter Include="Source\MultiplayerRPG\Public\AbilitySystem">
+      <UniqueIdentifier>{75A0F21F-3D63-3627-94F8-54CF07A622E4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\Public\AbilitySystem\RPGAbilitySystemComponent.h">
+      <Filter>Source\MultiplayerRPG\Public\AbilitySystem</Filter>
+    </ClCompile>
+    <Filter Include="Source\MultiplayerRPG\Public\AbilitySystem\Attributes">
+      <UniqueIdentifier>{8CE7A7B7-DC89-3380-90D9-5A5F05DE6351}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\Public\AbilitySystem\Attributes\RPGAttributeSet.h">
+      <Filter>Source\MultiplayerRPG\Public\AbilitySystem\Attributes</Filter>
+    </ClCompile>
+    <Filter Include="Source\MultiplayerRPG\Public\Game">
+      <UniqueIdentifier>{80E650F6-72D8-307E-971A-2C22E19017F7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\MultiplayerRPG\Public\Game\PlayerState">
+      <UniqueIdentifier>{57428413-81DE-37E5-BA6D-56FBD177142E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MultiplayerRPG\Public\Game\PlayerState\RPGPlayerState.h">
+      <Filter>Source\MultiplayerRPG\Public\Game\PlayerState</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

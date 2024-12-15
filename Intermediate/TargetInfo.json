@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MultiplayerRPG",
+			"Path": "..\\Source\\MultiplayerRPG.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MultiplayerRPGEditor",
+			"Path": "..\\Source\\MultiplayerRPGEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

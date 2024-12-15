@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Private\\Game\\PlayerState\\RPGPlayerState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|solutionrelative:Source\\MultiplayerRPG\\Private\\Game\\PlayerState\\RPGPlayerState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Private\\AbilitySystem\\Attributes\\RPGAttributeSet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|solutionrelative:Source\\MultiplayerRPG\\Private\\AbilitySystem\\Attributes\\RPGAttributeSet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Public\\AbilitySystem\\Attributes\\RPGAttributeSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|solutionrelative:Source\\MultiplayerRPG\\Public\\AbilitySystem\\Attributes\\RPGAttributeSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Private\\AbilitySystem\\RPGAbilitySystemComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|solutionrelative:Source\\MultiplayerRPG\\Private\\AbilitySystem\\RPGAbilitySystemComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Public\\AbilitySystem\\RPGAbilitySystemComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|solutionrelative:Source\\MultiplayerRPG\\Public\\AbilitySystem\\RPGAbilitySystemComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Private\\RPGMeleeAbility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|solutionrelative:Source\\MultiplayerRPG\\Private\\RPGMeleeAbility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Public\\RPGMeleeAbility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|solutionrelative:Source\\MultiplayerRPG\\Public\\RPGMeleeAbility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\MultiplayerRPGCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|solutionrelative:Source\\MultiplayerRPG\\MultiplayerRPGCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\MultiplayerRPGCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|solutionrelative:Source\\MultiplayerRPG\\MultiplayerRPGCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\MultiplayerRPG.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|solutionrelative:Source\\MultiplayerRPG\\MultiplayerRPG.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Public\\Game\\PlayerState\\RPGPlayerState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|solutionrelative:Source\\MultiplayerRPG\\Public\\Game\\PlayerState\\RPGPlayerState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Private\\RPGRangedAbility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|solutionrelative:Source\\MultiplayerRPG\\Private\\RPGRangedAbility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Public\\RPGRangedAbility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F28B7F46-8FC6-379D-9867-E2F4C691D63B}|Intermediate\\ProjectFiles\\MultiplayerRPG.vcxproj|solutionrelative:Source\\MultiplayerRPG\\Public\\RPGRangedAbility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RPGRangedAbility.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Private\\RPGRangedAbility.cpp",
+              "RelativeDocumentMoniker": "Source\\MultiplayerRPG\\Private\\RPGRangedAbility.cpp",
+              "ToolTip": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Private\\RPGRangedAbility.cpp",
+              "RelativeToolTip": "Source\\MultiplayerRPG\\Private\\RPGRangedAbility.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T12:34:00.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RPGRangedAbility.h",
+              "DocumentMoniker": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Public\\RPGRangedAbility.h",
+              "RelativeDocumentMoniker": "Source\\MultiplayerRPG\\Public\\RPGRangedAbility.h",
+              "ToolTip": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Public\\RPGRangedAbility.h",
+              "RelativeToolTip": "Source\\MultiplayerRPG\\Public\\RPGRangedAbility.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T12:34:00.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RPGMeleeAbility.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Private\\RPGMeleeAbility.cpp",
+              "RelativeDocumentMoniker": "Source\\MultiplayerRPG\\Private\\RPGMeleeAbility.cpp",
+              "ToolTip": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Private\\RPGMeleeAbility.cpp",
+              "RelativeToolTip": "Source\\MultiplayerRPG\\Private\\RPGMeleeAbility.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T12:32:01.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RPGAbilitySystemComponent.h",
+              "DocumentMoniker": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Public\\AbilitySystem\\RPGAbilitySystemComponent.h",
+              "RelativeDocumentMoniker": "Source\\MultiplayerRPG\\Public\\AbilitySystem\\RPGAbilitySystemComponent.h",
+              "ToolTip": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Public\\AbilitySystem\\RPGAbilitySystemComponent.h",
+              "RelativeToolTip": "Source\\MultiplayerRPG\\Public\\AbilitySystem\\RPGAbilitySystemComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T14:14:17.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RPGAbilitySystemComponent.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Private\\AbilitySystem\\RPGAbilitySystemComponent.cpp",
+              "RelativeDocumentMoniker": "Source\\MultiplayerRPG\\Private\\AbilitySystem\\RPGAbilitySystemComponent.cpp",
+              "ToolTip": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Private\\AbilitySystem\\RPGAbilitySystemComponent.cpp",
+              "RelativeToolTip": "Source\\MultiplayerRPG\\Private\\AbilitySystem\\RPGAbilitySystemComponent.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T14:18:07.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RPGAttributeSet.h",
+              "DocumentMoniker": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Public\\AbilitySystem\\Attributes\\RPGAttributeSet.h",
+              "RelativeDocumentMoniker": "Source\\MultiplayerRPG\\Public\\AbilitySystem\\Attributes\\RPGAttributeSet.h",
+              "ToolTip": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Public\\AbilitySystem\\Attributes\\RPGAttributeSet.h",
+              "RelativeToolTip": "Source\\MultiplayerRPG\\Public\\AbilitySystem\\Attributes\\RPGAttributeSet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T14:17:50.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RPGAttributeSet.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Private\\AbilitySystem\\Attributes\\RPGAttributeSet.cpp",
+              "RelativeDocumentMoniker": "Source\\MultiplayerRPG\\Private\\AbilitySystem\\Attributes\\RPGAttributeSet.cpp",
+              "ToolTip": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Private\\AbilitySystem\\Attributes\\RPGAttributeSet.cpp",
+              "RelativeToolTip": "Source\\MultiplayerRPG\\Private\\AbilitySystem\\Attributes\\RPGAttributeSet.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T14:18:12.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RPGPlayerState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Private\\Game\\PlayerState\\RPGPlayerState.cpp",
+              "RelativeDocumentMoniker": "Source\\MultiplayerRPG\\Private\\Game\\PlayerState\\RPGPlayerState.cpp",
+              "ToolTip": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Private\\Game\\PlayerState\\RPGPlayerState.cpp",
+              "RelativeToolTip": "Source\\MultiplayerRPG\\Private\\Game\\PlayerState\\RPGPlayerState.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T14:18:32.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RPGMeleeAbility.h",
+              "DocumentMoniker": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Public\\RPGMeleeAbility.h",
+              "RelativeDocumentMoniker": "Source\\MultiplayerRPG\\Public\\RPGMeleeAbility.h",
+              "ToolTip": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Public\\RPGMeleeAbility.h",
+              "RelativeToolTip": "Source\\MultiplayerRPG\\Public\\RPGMeleeAbility.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T12:32:01.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MultiplayerRPGCharacter.h",
+              "DocumentMoniker": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\MultiplayerRPGCharacter.h",
+              "RelativeDocumentMoniker": "Source\\MultiplayerRPG\\MultiplayerRPGCharacter.h",
+              "ToolTip": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\MultiplayerRPGCharacter.h",
+              "RelativeToolTip": "Source\\MultiplayerRPG\\MultiplayerRPGCharacter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T12:36:44.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MultiplayerRPGCharacter.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\MultiplayerRPGCharacter.cpp",
+              "RelativeDocumentMoniker": "Source\\MultiplayerRPG\\MultiplayerRPGCharacter.cpp",
+              "ToolTip": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\MultiplayerRPGCharacter.cpp",
+              "RelativeToolTip": "Source\\MultiplayerRPG\\MultiplayerRPGCharacter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T13:14:48.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MultiplayerRPG.Build.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\MultiplayerRPG.Build.cs",
+              "RelativeDocumentMoniker": "Source\\MultiplayerRPG\\MultiplayerRPG.Build.cs",
+              "ToolTip": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\MultiplayerRPG.Build.cs",
+              "RelativeToolTip": "Source\\MultiplayerRPG\\MultiplayerRPG.Build.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:36:19.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RPGPlayerState.h",
+              "DocumentMoniker": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Public\\Game\\PlayerState\\RPGPlayerState.h",
+              "RelativeDocumentMoniker": "Source\\MultiplayerRPG\\Public\\Game\\PlayerState\\RPGPlayerState.h",
+              "ToolTip": "C:\\Users\\User\\MultiplayerRPG\\MultiplayerRPG\\Source\\MultiplayerRPG\\Public\\Game\\PlayerState\\RPGPlayerState.h",
+              "RelativeToolTip": "Source\\MultiplayerRPG\\Public\\Game\\PlayerState\\RPGPlayerState.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T14:18:39.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
